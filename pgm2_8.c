@@ -2,7 +2,7 @@
 
 	Kim Lim
 	N454S798
-	Program #1
+	Program #2
 	pgm2_8.c
 
 Function: strtonum , main
