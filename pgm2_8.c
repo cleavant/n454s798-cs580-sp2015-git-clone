@@ -1,6 +1,6 @@
 /*
 
-	Kim Yong Lim
+	Kim Lim
 	N454S798
 	Program #3
 	pgm2_8.c
